@@ -1,0 +1,14 @@
+{
+  "name": "super-typescript-2-turbo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "present": "reveal-md src/deck.md"
+  },
+  "author": "Sean May",
+  "license": "WTFPL",
+  "dependencies": {
+    "reveal-md": "latest"
+  }
+}
